@@ -22,3 +22,4 @@ $(document).ready(function() {
     $("#" + candidates[name]).html(val);
   }
 });
+//test
